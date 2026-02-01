@@ -1,12 +1,12 @@
 <!-- ================= HEADER ================= -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,27&height=230&section=header&text=Fathima%20Rizma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,8,9&height=230&section=header&text=Fathima%20Rizma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50)
 
 <!-- ================= INTRO ================= -->
 <h1 align="center">Hi 👋, I'm Rizma</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7C566&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Developer;Vue+%26+React+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Developer;Vue+%26+React+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -19,24 +19,22 @@
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathimarizma&show_icons=true&theme=tokyonight&icon_color=F7C566&title_color=F7C566&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathimarizma&show_icons=true&theme=tokyonight&icon_color=2EC4B6&title_color=2EC4B6&text_color=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimarizma&theme=tokyonight&ring=F7C566&fire=F7C566&currStreakLabel=F7C566&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimarizma&theme=tokyonight&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimarizma&layout=compact&theme=tokyonight&title_color=F7C566&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimarizma&layout=compact&theme=tokyonight&title_color=2EC4B6&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
 
-<!-- ================= LANGUAGES & TOOLS ================= -->
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -67,7 +65,5 @@
 <a href="https://vuetifyjs.com/"><img src="https://bestofjs.org/logos/vuetify.svg" width="40"/></a>
 </p>
 
----
-
 <!-- ================= FOOTER ================= -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,18,14,12&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,8,4&height=120&section=footer)
