@@ -17,25 +17,7 @@
 - 💬 **Ask me about:** Anything, I’m happy to help  
 - ⚡ **Fun fact:** I love coding more than anything 💻  
 
----
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathimarizma&show_icons=true&theme=tokyonight&icon_color=2EC4B6&title_color=2EC4B6&text_color=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimarizma&theme=tokyonight&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimarizma&layout=compact&theme=tokyonight&title_color=2EC4B6&text_color=ffffff&hide_border=true" />
-</p>
-
----
-
-## 🛠️ Languages & Tools
+---### 🛠️ Languages & Tools
 
 <p align="left">
 <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
