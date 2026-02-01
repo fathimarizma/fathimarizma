@@ -17,7 +17,7 @@
 - 💬 **Ask me about:** Anything, I’m happy to help  
 - ⚡ **Fun fact:** I love coding more than anything 💻  
 
----### 🛠️ Languages & Tools
+ 🛠️ Languages & Tools
 
 <p align="left">
 <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
