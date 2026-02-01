@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rizma</h1>
 <h3 align="center">A passionate frontend developer </h3>
 
-- 🔭 2026 Goals **Work hard to build my career level up**
+- 🔭 2026 Goals : **Work hard to build my career level up**
 
 - 🌱 I'm currently learning : **Vue.js and Laravel**
 
-- 💬 Ask me about **Anything,I'm happy to help you**
+- 💬 Ask me about : **Anything,I'm happy to help you**
 
-- ⚡ Fun fact **I love to coding more anything...!**
+- ⚡ Fun fact : **I love to coding more anything...!**
 
 
 <p align="left">
