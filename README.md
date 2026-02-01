@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love to coding more anything...!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
